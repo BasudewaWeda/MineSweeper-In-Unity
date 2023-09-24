@@ -11,3 +11,9 @@ MineSweeper game made in Unity for a final project in data structure class.
 ## Features 💡
 - [x] 3 different difficulties
 - [x] High score saving
+
+## How To Install 🔧
+- Go to Build file
+- Go to Installer file
+- Download `MineSweeper Setup.exe`
+- Execute `MineSweeper Setup.exe`
